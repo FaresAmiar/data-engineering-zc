@@ -4,3 +4,9 @@ google-cloud-cli-linux-x86_64.tar.gz
 terraform.tfstate
 terraform.tfstate.backup
 .terraform.lock.hcl
+Exercice 4/dbt_project/logs/
+Exercice 4/fhv_taxi_data/
+Exercice 4/green_taxi_data/
+Exercice 4/yellow_taxi_data/
+dbt
+Exercice 4/bash.sh
